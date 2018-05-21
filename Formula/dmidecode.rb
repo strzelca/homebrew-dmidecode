@@ -3,7 +3,7 @@ class Dmidecode < Formula
   homepage "https://github.com/cavaliercoder/dmidecode-osx"
   url "https://github.com/cavaliercoder/dmidecode-osx/archive/v3.1.tar.gz"
   version "3.1"
-  sha256 "57eee188e7fb96ce72cad72eade87e7c751e90e97d238ae5e556c0fdefa36acc"
+  sha256 "b7ee6fe84e0e9015ac09a903fc3906c388087da504e394e07cb2cd274ba3faa1"
 
   def install
     system "make", "dmidecode"
